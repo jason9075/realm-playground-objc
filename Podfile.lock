@@ -1,0 +1,18 @@
+PODS:
+  - IQKeyboardManager (3.2.1.2)
+  - Masonry (0.6.4)
+  - Realm (0.98.1):
+    - Realm/Headers (= 0.98.1)
+  - Realm/Headers (0.98.1)
+
+DEPENDENCIES:
+  - IQKeyboardManager (~> 3.2.1.0)
+  - Masonry
+  - Realm
+
+SPEC CHECKSUMS:
+  IQKeyboardManager: 4adcd7cc9c17440a7cb74755f6f6c8389919c6bf
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+  Realm: ca4a4122e939e228e10694fc49011386cb2ecb07
+
+COCOAPODS: 0.38.2
